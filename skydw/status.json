@@ -1,8 +1,8 @@
 {
-  "total_collected": 25000,
-  "total_used": 18200,
+  "total_collected": 75000,
+  "total_used": 1800,
   "balance": 6800,
-  "last_updated": "5 Jan 2026",
+  "last_updated": "2 Apr 2026",
   "activity_log": [
     { "date": "Recent", "amount": "₹500", "description": "Assisted Autoboy with essential support." },
     { "date": "Recent", "amount": "", "description": "Distributed Street Help Supplies to those in immediate need." },
