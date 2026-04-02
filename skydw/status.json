@@ -3,5 +3,10 @@
   "total_used": 18200,
   "balance": 6800,
   "status": "Active",
-  "last_updated": "5 Jan 2026"
+  "last_updated": "5 Jan 2026",
+  "activity_log": [
+    { "date": "Recent", "amount": "₹500", "description": "Assisted Autoboy with essential support." },
+    { "date": "Recent", "amount": "", "description": "Distributed Street Help Supplies to those in immediate need." },
+    { "date": "Recent", "amount": "", "description": "Provided Food/Eating Assistance in the local community area." }
+  ]
 }
