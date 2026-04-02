@@ -6,6 +6,9 @@
   "activity_log": [
     { "date": "Recent", "amount": "₹500", "description": "Assisted Autoboy with essential support." },
     { "date": "Recent", "amount": "", "description": "Distributed Street Help Supplies to those in immediate need." },
+    { "date": "Recent", "amount": "", "description": "Provided Food/Eating Assistance in the local community area." },
+    { "date": "Recent", "amount": "₹500", "description": "Assisted Autoboy with essential support." },
+    { "date": "Recent", "amount": "", "description": "Distributed Street Help Supplies to those in immediate need." },
     { "date": "Recent", "amount": "", "description": "Provided Food/Eating Assistance in the local community area." }
   ]
 }
