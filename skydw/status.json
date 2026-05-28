@@ -1,11 +1,27 @@
 {
-  "total_collected": 75000,
+  "total_collected": 000,
   "total_used": 2800,
-  "balance": 6800,
-  "last_updated": "18 Apr 2026",
+  "balance": 0000,
+  "last_updated": "18 May 2026",
   "activity_log": [
-    { "date": "Recent", "amount": "₹500", "description": "Assisted Autoboy with essential support." },
-    { "date": "Recent", "amount": "", "description": "Distributed Street Help Supplies to those in immediate need." },
-    { "date": "Recent", "amount": "", "description": "Provided Food/Eating Assistance in the local community area." }
+    { 
+      "date": "Mar 2026", 
+      "amount": 500, 
+      "description": "Assisted Autoboy with essential support." 
+    },
+    { 
+      "date": "Feb 2026", 
+      "amount": 1200, 
+      "description": "Distributed Street Help Supplies to those in immediate need." 
+    },
+    { 
+      "date": "Jan 2026", 
+      "amount": 1100, 
+      "description": "Provided Food/Eating Assistance in the local community area." 
+    },
+    { 
+      "date": "Jan 2026", 
+      "description": "Ground verification and manual checking in the local community area. (No funds used today)" 
+    }
   ]
 }
